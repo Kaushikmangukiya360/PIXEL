@@ -1,0 +1,42 @@
+.nav{
+    background-color: rgb(0, 143, 143);
+    color: aliceblue;
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.link{
+    background-color: rgb(216, 216, 216);
+    color: rgb(97, 97, 97);
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.cardData{
+    padding: 10px;
+    border: 7px white solid;
+    /* margin: 5px; */
+    margin-top: 10px !important;
+    border-radius: 25px;
+    background-color: rgb(136, 237, 255);
+}
+
+.cardData img{
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.cardData button{
+    width: 49%;
+    border: 0px;
+    background-color: rgb(1, 59, 109);
+    border-radius: 25px;
+}
+
+button a{
+    text-decoration: none;
+    color: aliceblue;
+}
